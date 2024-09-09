@@ -1,4 +1,4 @@
 #include "packer_analysis.h"
 #include <stdio.h>
 
-void
+void analyze_packet(const u)
