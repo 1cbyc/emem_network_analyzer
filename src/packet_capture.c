@@ -12,3 +12,5 @@ int init_capture() {
     }
     return 0;
 }
+
+void_start
