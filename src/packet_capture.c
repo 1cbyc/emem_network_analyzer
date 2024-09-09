@@ -4,5 +4,6 @@
 pcap_t *handle;
 
 int init_capture() {
-    char errbuf[]
+    char errbuf[PCAP_ERRBUF_SIZE];
+    
 }
