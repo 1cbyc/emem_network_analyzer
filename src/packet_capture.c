@@ -3,4 +3,6 @@
 
 pcap_t *handle;
 
-int init_capture() 
+int init_capture() {
+    char errbuf[]
+}
