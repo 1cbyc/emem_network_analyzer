@@ -14,5 +14,5 @@ int init_capture() {
 }
 
 void start_capture() {
-    pcap_loop(handle,)
+    pcap_loop(handle, 0, packet_handler, NULL)
 }
