@@ -13,4 +13,6 @@ int init_capture() {
     return 0;
 }
 
-void start_capture()
+void start_capture() {
+    pcap_loop(handle,)
+}
