@@ -7,5 +7,6 @@ int main() {
     // to initiate packet capture
     if (init_capture() < 0) {
         fprintf(stderr, "failed to init packet capture\n");
+        return 1;
     }
 }
