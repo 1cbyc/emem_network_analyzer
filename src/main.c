@@ -5,5 +5,5 @@ int main() {
     printf("Emem Network Analyzer\n");
 
     // to initiate packet capture
-    
+    if (init_capture() < 0)
 }
