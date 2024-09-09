@@ -17,4 +17,6 @@ void start_capture() {
     pcap_loop(handle, 0, packet_handler, NULL);
 }
 
-void packet_handler(u_char *user, const struct pcap_pkthdr *pkthdr, const u_char *packet)
+void packet_handler(u_char *user, const struct pcap_pkthdr *pkthdr, const u_char *packet) {
+    // 
+}
