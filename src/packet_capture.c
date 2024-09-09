@@ -10,4 +10,5 @@ int init_capture() {
         fprintf(stderr, "pcap_open_live() failed: %s\n", errbuf);
         return -1;
     }
+    return 0;
 }
