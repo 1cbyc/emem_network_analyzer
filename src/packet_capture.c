@@ -5,5 +5,5 @@ pcap_t *handle;
 
 int init_capture() {
     char errbuf[PCAP_ERRBUF_SIZE];
-    handle = pcap_open
+    handle = pcap_open_live("eth0")
 }
