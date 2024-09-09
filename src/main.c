@@ -11,5 +11,5 @@ int main() {
     }
 
     // time to start packet capture
-    start_capture
+    start_capture()
 }
