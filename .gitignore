@@ -54,4 +54,4 @@ dkms.conf
 # personal
 hide.c
 hide
-.vs
+.vscode
