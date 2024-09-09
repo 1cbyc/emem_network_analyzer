@@ -2,5 +2,5 @@
 #include "packet_capture.h"
 
 int main() {
-    printf()
+    printf("Emem Network Analyzer")
 }
