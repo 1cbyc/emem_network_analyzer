@@ -6,6 +6,6 @@ int main() {
 
     // to initiate packet capture
     if (init_capture() < 0) {
-        fprintf(stderr, "")
+        fprintf(stderr, "failed to init")
     }
 }
