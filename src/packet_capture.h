@@ -1,7 +1,7 @@
 #ifndef PACKET_CAPTURE_H
 #define PACKET_CAPTURE_H
 
-#include <pcap.h>  // Include pcap.h to define u_char and pcap_pkthdr
+#include <pcap.h>  // added pcap.h to define u_char and pcap_pkthdr
 
 int init_capture();
 void start_capture();
