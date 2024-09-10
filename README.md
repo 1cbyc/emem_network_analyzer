@@ -9,4 +9,4 @@ if you intend to use this with me, keep in mind it can do these three things mos
 
 had some issues with my packet analysis script but i am done with it. you can check my commit history to know what i did. or wait till i explain it.
 
-well, after 
+well, after the whole rectification, this is the result from 
