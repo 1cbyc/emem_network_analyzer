@@ -55,4 +55,4 @@ dkms.conf
 hide.c
 hide
 .vscode/
-.DS
+.DS_Store
