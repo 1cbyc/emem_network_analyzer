@@ -14,3 +14,6 @@ well, after the whole rectification, this is the result as i ran my build:
 ![proof of work](Screenshot-2024-09-10-at-4-50-43-PM.png)
 
 now it is time to run the operation after i have completed build. 
+
+if you dey use my code, just do:
+```
