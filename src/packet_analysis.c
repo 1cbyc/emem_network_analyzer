@@ -1,3 +1,4 @@
+#include <pcap.h>  // Include pcap.h
 #include "packet_analysis.h"
 #include <stdio.h>
 
