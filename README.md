@@ -21,4 +21,4 @@ sudo ./emem_network_analyzer
 ```
 
 let me come back later to this analyzer. i willfix some crazy logic and functionalities to the packet_analysis sha. make ah come back first.
-though what i have in mind is to implement specific parsing protocols i so please, and maybe if there is still excitement i will add 
+though what i have in mind is to implement specific parsing protocols i so please, and maybe if there is still excitement i will make it to capture packes directly into a file.
