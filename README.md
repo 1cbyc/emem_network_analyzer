@@ -11,4 +11,4 @@ had some issues with my packet analysis script but i am done with it. you can ch
 
 well, after the whole rectification, this is the result as i ran my build:
 
-[proof of work](Screenshot-2024-09-10-at-4-50-43-PM.png)
+![proof of work](Screenshot-2024-09-10-at-4-50-43-PM.png)
