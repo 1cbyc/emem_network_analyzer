@@ -20,4 +20,5 @@ if you dey use my code, just do:
 sudo ./emem_network_analyzer
 ```
 
-let me come back later to this analyzer. i willfix some crazy logic and functionalities to the packet_analysis
+let me come back later to this analyzer. i willfix some crazy logic and functionalities to the packet_analysis sha. make ah come back first.
+though what i have in mind is to implement 
