@@ -16,4 +16,6 @@ well, after the whole rectification, this is the result as i ran my build:
 now it is time to run the operation after i have completed build. 
 
 if you dey use my code, just do:
+```bash
+sudo ./emem_network_analyzer
 ```
